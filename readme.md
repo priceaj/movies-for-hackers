@@ -35,7 +35,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Antitrust](https://www.imdb.com/title/tt0218817/)                                         | Thriller/Drama            | 2001 | 6.1/10 |
 | [Blackhat](https://www.imdb.com/title/tt2717822/)                                          | Thriller/Drama            | 2015 | 5.4/10 |
 | [Brazil](https://www.imdb.com/title/tt0088846/)                                            | Drama/Science Fiction     | 1985 | 7.9/10 |
-| [Enemy of the State](https://www.imdb.com/title/tt0120660/)                                | Thriller/Drama            | 1998 | 7.3/10 |
+| [~~Enemy of the State~~](https://www.imdb.com/title/tt0120660/)                                | Thriller/Drama            | 1998 | 7.3/10 |
 | [Hacker's Game](https://www.imdb.com/title/tt3140724/)                                     | Thriller/Drama            | 2015 | 3.8/10 |
 | [Hackers](https://www.imdb.com/title/tt0113243/)                                           | Drama/Crime               | 1995 | 6.2/10 |
 | [Hidden Figures](https://www.imdb.com/title/tt4846340)                                     | Biography/Drama/History   | 2017 | 7.8/10 |
@@ -80,7 +80,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Ghost in the Shell](https://www.imdb.com/title/tt1219827/)                                | Science Fiction/Action    | 2017 | 6.9/10 |
 | [Her](https://www.imdb.com/title/tt1798709/)                                               | Science Fiction/Romance   | 2013 | 8.0/10 |
 | [Inception](https://www.imdb.com/title/tt1375666/)                                         | Science Fiction/Mystery   | 2010 | 8.8/10 |
-| [Johnny Mnemonic](https://www.imdb.com/title/tt0113481/)                                   | Science Fiction/Action    | 1995 | 5.6/10 |
+| [~~Johnny Mnemonic~~](https://www.imdb.com/title/tt0113481/)                                   | Science Fiction/Action    | 1995 | 5.6/10 |
 | [Morgan](https://www.imdb.com/title/tt4520364/)                                            | Science Fiction/Thriller  | 2016 | 5.8/10 |
 | [One Point O](https://www.imdb.com/title/tt0317042/)                                       | Science Fiction/Mystery   | 2004 | 6.2/10 |
 | [Open Windows](https://www.imdb.com/title/tt2409818/)                                      | Fantasy/Crime             | 2014 | 5.2/10 |
@@ -99,7 +99,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Firewall](https://www.imdb.com/title/tt0408345/)                                          | Action/Thriller           | 2006 | 5.8/10 |
 | [Gamer](https://www.imdb.com/title/tt1034032/)                                             | Action/Thriller           | 2009 | 5.8/10 |
 | [Kung Fury](https://www.imdb.com/title/tt3472226/)                                         | Action/Comedy             | 2015 | 8.1/10 |
-| [Sneakers](https://www.imdb.com/title/tt0105435/)                                          | Action/Thriller           | 1992 | 7.1/10 |
+| [~~Sneakers~~](https://www.imdb.com/title/tt0105435/)                                          | Action/Thriller           | 1992 | 7.1/10 |
 | [The Island](https://www.imdb.com/title/tt0399201/)                                        | Action/Adventure          | 2005 | 6.9/10 |
 | [The Italian Job](https://www.imdb.com/title/tt0317740/)                                   | Action/Thriller           | 2003 | 7.0/10 |
 | [Tron](https://www.imdb.com/title/tt0084827/)                                              | Action/Adventure          | 1982 | 6.8/10 |
